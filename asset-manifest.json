@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/skikkeboo/static/css/main.55feed1b.chunk.css",
+    "main.js": "/skikkeboo/static/js/main.52acc996.chunk.js",
+    "main.js.map": "/skikkeboo/static/js/main.52acc996.chunk.js.map",
+    "runtime-main.js": "/skikkeboo/static/js/runtime-main.4a98a012.js",
+    "runtime-main.js.map": "/skikkeboo/static/js/runtime-main.4a98a012.js.map",
+    "static/js/2.64807a92.chunk.js": "/skikkeboo/static/js/2.64807a92.chunk.js",
+    "static/js/2.64807a92.chunk.js.map": "/skikkeboo/static/js/2.64807a92.chunk.js.map",
+    "index.html": "/skikkeboo/index.html",
+    "static/css/main.55feed1b.chunk.css.map": "/skikkeboo/static/css/main.55feed1b.chunk.css.map",
+    "static/js/2.64807a92.chunk.js.LICENSE.txt": "/skikkeboo/static/js/2.64807a92.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a98a012.js",
+    "static/js/2.64807a92.chunk.js",
+    "static/css/main.55feed1b.chunk.css",
+    "static/js/main.52acc996.chunk.js"
+  ]
+}
