@@ -2,7 +2,7 @@
   "name": "skikkeboo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://www.jarkko.dev/skikkeboo",
+  "homepage": "https://www.jarkko.dev",
   "dependencies": {
     "@craco/craco": "^6.1.2",
     "@testing-library/jest-dom": "^5.12.0",
