@@ -1,7 +1,7 @@
 const App = () => {
   return (
-    <div>
-      <header className="text-2xl">Skikkeböö</header>
+    <div className="h-screen flex items-center justify-center">
+      <header className="text-9xl">( ͡° ͜ʖ ͡°)</header>
     </div>
   );
 };
