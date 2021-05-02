@@ -1,0 +1,2 @@
+(this.webpackJsonpskikkeboo=this.webpackJsonpskikkeboo||[]).push([[0],{10:function(e,t,c){"use strict";c.r(t);var n=c(1),s=c.n(n),r=c(3),i=c.n(r),o=c(0),a=function(){return Object(o.jsx)("div",{className:"h-screen flex items-center justify-center",children:Object(o.jsx)("header",{className:"text-9xl",children:"( \u0361\xb0 \u035c\u0296 \u0361\xb0)"})})};c(9);i.a.render(Object(o.jsx)(s.a.StrictMode,{children:Object(o.jsx)(a,{})}),document.getElementById("root"))},9:function(e,t,c){}},[[10,1,2]]]);
+//# sourceMappingURL=main.9d1ee55b.chunk.js.map
